@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [2.45.0](https://github.com/googleapis/google-cloud-python/compare/google-api-core-v2.44.0...google-api-core-v2.45.0) (2026-11-17)
+
+
+### Features
+
+* **google-api-core:** centralize telemetry error attribute and trace context builders in _observability ([#18893](https://github.com/googleapis/google-cloud-python/issues/18893)) ([e0fb81e](https://github.com/googleapis/google-cloud-python/commit/e0fb81e2099f6d3171065ad6eb71f9172e605ff9))
+
 ## [2.44.0](https://github.com/googleapis/google-cloud-python/compare/google-api-core-v2.43.2...google-api-core-v2.44.0) (2026-11-05)
 
 
